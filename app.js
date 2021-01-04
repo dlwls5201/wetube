@@ -1,4 +1,4 @@
-import express from 'express';  //const express = require('express');
+import express from 'express';  
 import morgan from 'morgan';
 import helmet from 'helmet';
 import cookieParser from 'cookie-parser';
